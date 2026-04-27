@@ -1,5 +1,4 @@
 # etapas de la vida.py
-codigo Python
 edad=int(input("¿Que edad tienes?:"))
 if edad <12:
     print("eres un niño")
