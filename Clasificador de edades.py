@@ -8,5 +8,5 @@ elif edad >=18 and edad <=65:
         print("descuento de estudiante aplicado")
     if"no":
         print("precio adulto estandar")
-else:
+elif edad >=65:
     print("precio de la tercera edad")
