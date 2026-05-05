@@ -7,6 +7,7 @@ while True:
         print("es un numero mas bajo")
     elif b<secreto:
         print("es un numero mas alto")
+        continue
     else:
         print("correcto!")
         break
